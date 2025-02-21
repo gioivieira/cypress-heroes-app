@@ -33,5 +33,8 @@
   },
   "prisma": {
     "schema": "server/prisma/schema.prisma"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1"
   }
 }
